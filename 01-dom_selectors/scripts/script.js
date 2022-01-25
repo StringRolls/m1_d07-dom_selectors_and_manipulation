@@ -29,9 +29,9 @@ console.log(
     divs[0] === cards[0]
 )
 
-cards.forEach(card=>card.innerText += " and I have been modified")
+// cards.forEach(card=>card.innerText += " and I have been modified")
 
 // --------- selecting on a branch (element inside document) ---------
 
 // document.getElementsByTagName("div")[0].querySelector("p")
-divs[0].querySelector("p")
+console.log("chain", divs[0].querySelector("p"))
