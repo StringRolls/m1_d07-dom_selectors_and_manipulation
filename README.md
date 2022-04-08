@@ -37,7 +37,7 @@
 
  ## Main points: event object
 
-- The `event` object ([MDN](https://developer.mozilla.org/es/docs/Web/API/Event)) can be captured in those functions that are invoked as a result of an event, being able to avoid, among other things, the sending of a form:
+- The `event` object ([MDN](https://developer.mozilla.org/en/docs/Web/API/Event)) can be captured in those functions that are invoked as a result of an event, being able to avoid, among other things, the sending of a form:
 
   ````javascript
   obj.onsubmit = e => e.preventDefault()
