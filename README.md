@@ -3,6 +3,15 @@
 # DOM Selectors and Manipulation
 # Module 1 - Day 7
 
+## Contents
+> DOM | Selectors
+> DOM | Manipulation
+
+[01_class-dom_selectors](./01_class-dom_selectors)
+
+[02_class-dom_manipulation](./02_class-dom_manipulation)
+
+
  ## DOM selectors
  
  - DOM selectors allow you to reach objects in the HTML document from the script:
